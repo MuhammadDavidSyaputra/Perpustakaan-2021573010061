@@ -48,7 +48,7 @@
               <div class="offcanvas-body">
                 <ul class="navbar-nav nav-pills flex-column justify-content-end flex-grow-1">
                   <li class="nav-item">
-                    <a class="nav-link active link-light" aria-current="page" href="index"> <i class="bi bi-house-fill"></i>
+                    <a class="nav-link active link-light" aria-current="page" href="main"> <i class="bi bi-house-fill"></i>
                       Home</a>
                   </li>
                   <li class="nav-item">
