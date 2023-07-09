@@ -13,7 +13,7 @@
   <!-- Header-->
   <nav class="navbar navbar-expand navbar-dark bg-primary sticky-top">
     <div class="container-lg">
-      <a class="navbar-brand" href="."><i class="bi bi-bank"></i> Peminjam</a>
+      <a class="navbar-brand" href="."><i class="bi bi-bank"></i> Perpustakaan</a>
       <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
         <ul class="navbar-nav">
         <li class="nav-item dropdown">
